@@ -12,7 +12,7 @@
   color: white;
 }
 .downloadWriteUp {
-  width: 65%;
+  width: 60%;
   padding-top: 30px;
 }
 .downloadWriteUp h3 {
@@ -24,7 +24,7 @@
 }
 .downloadWriteUp p {
   font-family: "Inter";
-  font-size: 19px;
+  font-size: 20px;
   font-weight: 300;
   line-height: 28px;
   color: #e7e7e7;
