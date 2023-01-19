@@ -11,15 +11,14 @@
   font-weight: 700;
   line-height: 60px;
   color: #172b4d;
-  padding-bottom: 20px;
 }
 .values {
-  width: 85%;
+  width: 90%;
   margin: auto;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 65px 0px 10px 0px;
+  padding: 75px 0px 10px 0px;
 }
 .value_button {
   width: 45px;
@@ -47,19 +46,19 @@
   background: #fdbd47;
 }
 .p1 {
-  font-size: 21px;
+  font-size: 23px;
   font-family: "inter";
   font-weight: 800;
   line-height: 30px;
   text-align: left;
   color: #172b4d;
-  padding-top: 25px;
+  padding-top: 30px;
 }
 .p2 {
   font-family: "Inter";
   font-style: normal;
   font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
+  font-size: 17px;
+  line-height: 27px;
   color: #5b5971;
 }
