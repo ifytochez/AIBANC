@@ -1,0 +1,106 @@
+.testimonials {
+  padding-top: 90px;
+}
+.testimonials h3 {
+  font-family: "Inter";
+  font-size: 45px;
+  font-weight: 800;
+  line-height: 64px;
+  color: #172b4d;
+  text-align: center;
+}
+.horizontalLine {
+  width: 10%;
+  margin: auto;
+  border-bottom: 2px solid #172b4d;
+  padding-top: 20px;
+}
+.testimony {
+  padding: 20px 0px;
+  padding-bottom: 60px;
+}
+.test-cont {
+  width: 65%;
+  margin: auto;
+  text-align: center;
+  justify-content: center;
+}
+.circle-image {
+  display: inline-block;
+  overflow: hidden;
+  width: 13%;
+  padding-bottom: 13%;
+  height: 0;
+  position: relative;
+}
+.circle-image img {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.description {
+  font-family: "Inter";
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #172b4d;
+  padding-top: 20px;
+}
+.text-cont-title {
+  font-family: "Inter";
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 26px;
+  letter-spacing: 0em;
+  padding: 20px 0px;
+  color: #172b4d;
+}
+
+@media screen and (max-width: 700px) {
+  .testimonials {
+    padding-top: 40px;
+    width: 80%;
+    margin: auto;
+  }
+  .testimonials h3 {
+    font-size: 28px;
+    line-height: 35px;
+  }
+
+  .description {
+    font-size: 15px;
+    padding-top: 10px;
+  }
+  .horizontalLine {
+    width: 40%;
+    padding-top: 0px;
+  }
+  .circle-image {
+    display: inline-block;
+    overflow: hidden;
+    width: 20%;
+    padding-bottom: 20%;
+    height: 0;
+    position: relative;
+  }
+  .circle-image img {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+}
+@media screen and (min-width: 701px) and (max-width: 900px) {
+  .testimonials {
+    padding-top: 40px;
+  }
+  .testimonials h3 {
+    font-size: 28px;
+    line-height: 35px;
+  }
+}
