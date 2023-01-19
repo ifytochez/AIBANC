@@ -24,7 +24,7 @@ function Footer() {
             <li>FAQs</li>
           </Link>
           <li>
-            <a href="#"> Support@aibanc.co</a>
+            <a href="mailto:Support@aibanc.co"> Support@aibanc.co</a>
           </li>
         </ul>
 
