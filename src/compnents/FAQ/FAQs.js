@@ -25,14 +25,14 @@ function FAQs() {
           >
             <Typography
               style={{
-                fontSize: "25px",
+                fontSize: "22px",
                 fontWeight: "600",
-                lineHeight: "31px",
+                lineHeight: "29px",
                 display: "flex",
                 alignItems: "center",
                 color: "#172B4D",
                 boxshadow: "none",
-                padding: "15px 0px",
+                padding: "5px 0px",
               }}
             >
               <p className="question">Why request my BVN?</p>
@@ -44,8 +44,8 @@ function FAQs() {
                 fontFamily: "Inter",
                 fontStyle: "normal",
                 fontWeight: "400",
-                fontSize: "20px",
-                lineHeight: "40px",
+                fontSize: "17px",
+                lineHeight: "20px",
                 color: "#5B5971",
               }}
             >
@@ -68,14 +68,14 @@ function FAQs() {
           >
             <Typography
               style={{
-                fontSize: "23px",
+                fontSize: "22px",
                 fontWeight: "600",
-                lineHeight: "31px",
+                lineHeight: "25px",
                 display: "flex",
                 alignItems: "center",
                 color: "#172B4D",
                 boxshadow: "none",
-                padding: "15px 0px",
+                padding: "10px 0px",
               }}
             >
               <p className="question">How can I get my banks statement?</p>
@@ -105,14 +105,14 @@ function FAQs() {
           >
             <Typography
               style={{
-                fontSize: "23px",
+                fontSize: "22px",
                 fontWeight: "600",
-                lineHeight: "31px",
+                lineHeight: "25px",
                 display: "flex",
                 alignItems: "center",
                 color: "#172B4D",
                 boxshadow: "none",
-                padding: "15px 0px",
+                padding: "10px 0px",
               }}
             >
               <p className="question">
@@ -151,14 +151,14 @@ function FAQs() {
           >
             <Typography
               style={{
-                fontSize: "23px",
+                fontSize: "22px",
                 fontWeight: "600",
-                lineHeight: "31px",
+                lineHeight: "25px",
                 display: "flex",
                 alignItems: "center",
                 color: "#172B4D",
                 boxshadow: "none",
-                padding: "15px 0px",
+                padding: "10px 0px",
               }}
             >
               <p className="question">What should I do if I need more help?</p>
