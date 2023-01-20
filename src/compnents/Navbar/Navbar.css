@@ -45,7 +45,13 @@ button {
 .mobile-menu-icon {
   display: none;
 }
-
+.googlePlay {
+  width: 16%;
+  padding: 10px 0px 0px 10px;
+}
+.navbarImg {
+  width: 100%;
+}
 @media screen and (max-width: 768px) {
   .logo {
     display: flex;

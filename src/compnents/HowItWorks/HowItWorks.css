@@ -1,11 +1,9 @@
 .HowItWorks {
-  /* min-height: 90vh; */
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 5% 5%;
 }
-
 .Leftcont {
   width: 45%;
 }
@@ -23,12 +21,10 @@
   color: #172b4d;
   padding-bottom: 50px;
 }
-
 .step {
   position: relative;
   z-index: 999;
   display: flex;
-  /* align-items: center; */
 }
 .title {
   line-height: 1.5em;
@@ -53,7 +49,6 @@
 }
 .circleCont {
   display: flex;
-  /* align-items: center; */
   justify-content: center;
 }
 .circle {
@@ -75,9 +70,7 @@
   content: " ";
   position: absolute;
   display: block;
-  /* top: 1px; */
   right: 50%;
-  /* bottom: 2px; */
   left: 50%;
   height: 6vh;
   width: 2px;

@@ -25,8 +25,25 @@ function Navbar() {
         <Link to="/faqs">
           <li>FAQs</li>
         </Link>
+        <div className="googlePlay">
+          <a href="https://play.google.com/store/apps/details?id=co.aibanc.Aibanc_APP">
+            <img
+              className="navbarImg"
+              src="/Images/GooglePlayBadge2.png"
+              alt=""
+            />
+          </a>
+        </div>
       </ul>
-
+      {/* <div className="googlePlay">
+        <a href="https://play.google.com/store/apps/details?id=co.aibanc.Aibanc_APP">
+          <img
+            className="navbarImg"
+            src="/Images/GooglePlayBadge2.png"
+            alt=""
+          />
+        </a>
+      </div> */}
       <button className="mobile-menu-icon" onClick={() => setMobile(!Mobile)}>
         {Mobile ? <FaTimes /> : <GiHamburgerMenu />}
       </button>

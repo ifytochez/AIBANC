@@ -13,6 +13,16 @@ function LandingPage() {
             Access credit at an affordable rate, manage your credit <br /> limit
             and earn 20% cashback on repayment.
           </p>
+
+          <div className="googleLink">
+            <a href="https://play.google.com/store/apps/details?id=co.aibanc.Aibanc_APP">
+              <img
+                className="google"
+                src="/Images/GooglePlayBadge2.png"
+                alt=""
+              />
+            </a>
+          </div>
         </div>
         <div className="rightcont">
           <img src="/Images/landing.png" alt="" />
