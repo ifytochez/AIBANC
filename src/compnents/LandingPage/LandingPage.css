@@ -1,0 +1,44 @@
+.Herosection {
+  background: #f4f6fc;
+  width: 100%;
+}
+.CONT {
+  width: 100%;
+  padding: 0px 0px 0px 70px;
+  display: flex;
+  justify-content: space-between;
+}
+.leftcont {
+  width: 50%;
+  padding-top: 140px;
+}
+
+.boldtext {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 63px;
+  line-height: 69px;
+  color: #172b4d;
+  margin-bottom: 15px;
+}
+.now {
+  color: #5a27ae;
+  border-bottom: 5px solid #5a27ae;
+}
+.mediumtext {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 40px;
+  color: #5b5971;
+  margin-bottom: 15px;
+}
+.rightcont {
+  width: 45%;
+  display: flex;
+  justify-content: flex-end;
+}
+.rightcont img {
+  width: 100%;
+}

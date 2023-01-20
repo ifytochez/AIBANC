@@ -8,7 +8,7 @@ function Navbar() {
   const [Mobile, setMobile] = useState(false);
   return (
     <nav className="navbar">
-      <Link to="/home">
+      <Link to="/">
         <img src="/Images/logo.png" alt="" className="logo" />
       </Link>
 
