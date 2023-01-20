@@ -6,6 +6,7 @@ import Testimonial from "../Testimonial/Testimonial";
 import FAQs from "../FAQ/FAQs";
 import LandingPage from "../LandingPage/LandingPage";
 import LandingPageContent from "../Landing_page_contents/LandingPageContent";
+import HowItWorks from "../HowItWorks/HowItWorks";
 
 function Home() {
   return (
@@ -13,6 +14,7 @@ function Home() {
       <Navbar />
       <LandingPage />
       <LandingPageContent />
+      <HowItWorks />
       <Download />
       <Testimonial />
       <FAQs />

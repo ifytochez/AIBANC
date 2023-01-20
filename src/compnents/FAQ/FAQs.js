@@ -45,7 +45,7 @@ function FAQs() {
                 fontStyle: "normal",
                 fontWeight: "400",
                 fontSize: "17px",
-                lineHeight: "20px",
+                lineHeight: "23px",
                 color: "#5B5971",
               }}
             >
@@ -87,8 +87,8 @@ function FAQs() {
                 fontFamily: "Inter",
                 fontStyle: "normal",
                 fontWeight: "400",
-                fontSize: "20px",
-                lineHeight: "40px",
+                fontSize: "17px",
+                lineHeight: "23px",
                 color: "#5B5971",
               }}
             >
@@ -126,8 +126,8 @@ function FAQs() {
                 fontFamily: "Inter",
                 fontStyle: "normal",
                 fontWeight: "400",
-                fontSize: "20px",
-                lineHeight: "40px",
+                fontSize: "17px",
+                lineHeight: "23px",
                 color: "#5B5971",
               }}
             >
@@ -170,8 +170,8 @@ function FAQs() {
                 fontFamily: "Inter",
                 fontStyle: "normal",
                 fontWeight: "400",
-                fontSize: "20px",
-                lineHeight: "40px",
+                fontSize: "17px",
+                lineHeight: "23px",
                 color: "#5B5971",
               }}
             >
