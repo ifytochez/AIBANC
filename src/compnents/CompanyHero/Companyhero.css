@@ -1,0 +1,39 @@
+.heroSession {
+  width: 100;
+}
+.heroCont {
+  width: 100%;
+  padding: 60px 70px 30px 70px;
+  display: flex;
+  margin: auto;
+  justify-content: space-between;
+}
+.writeup {
+  width: 54%;
+}
+.imageCont {
+  width: 37%;
+  display: flex;
+  justify-content: flex-end;
+}
+.imageCont img {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+.paragraph1 {
+  font-family: "Inter";
+  font-size: 49px;
+  font-weight: 900;
+  line-height: 59px;
+  text-align: left;
+  padding-top: 30px;
+  color: #172b4d;
+}
+.paragraph2 {
+  font-family: "Inter";
+  padding-top: 30px;
+  font-size: 20px;
+  line-height: 34px;
+  color: #5b5971;
+}
