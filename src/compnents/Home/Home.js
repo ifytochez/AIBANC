@@ -5,12 +5,14 @@ import Download from "../Downloads/Download";
 import Testimonial from "../Testimonial/Testimonial";
 import FAQs from "../FAQ/FAQs";
 import LandingPage from "../LandingPage/LandingPage";
+import LandingPageContent from "../Landing_page_contents/LandingPageContent";
 
 function Home() {
   return (
     <>
       <Navbar />
       <LandingPage />
+      <LandingPageContent />
       <Download />
       <Testimonial />
       <FAQs />

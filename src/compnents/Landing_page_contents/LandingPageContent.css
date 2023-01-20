@@ -1,0 +1,46 @@
+.CreditSection {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5% 5%;
+}
+.Creditleftcont {
+  width: 47%;
+}
+.Creditleftcont img {
+  width: 100%;
+}
+.Creditrightcont {
+  width: 45%;
+}
+.smallHeadline {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 50px;
+  color: #27ae60;
+  margin-bottom: 0;
+}
+.semiboldtext {
+  font-weight: 800;
+  font-size: 40px;
+  line-height: 50px;
+  color: #172b4d;
+  margin-bottom: 15px;
+}
+.semimediumtext {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  color: #333333;
+  margin-bottom: 15px;
+}
+.downloadNow {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 60px;
+  scroll-behavior: smooth;
+}
+.downloadNow a {
+  color: #3861fb;
+}
