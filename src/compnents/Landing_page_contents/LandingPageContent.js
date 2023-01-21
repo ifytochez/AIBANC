@@ -4,7 +4,7 @@ import "./LandingPageContent.css";
 function LandingPageContent() {
   return (
     <div>
-      <section className="CreditSection">
+      <section className="CreditSection one">
         <div className="Creditleftcont">
           <div className="mockupleft">
             <img src="/Images/one.png" alt="" />
@@ -25,7 +25,7 @@ function LandingPageContent() {
         </div>
       </section>
 
-      <section className="CreditSection">
+      <section className="CreditSection two">
         <div className="Creditrightcont">
           <p className="smallHeadline">Affordable interest rate</p>
           <div className="semiboldtext">Enjoy low interest rate.</div>
@@ -46,7 +46,7 @@ function LandingPageContent() {
         </div>
       </section>
 
-      <section className="CreditSection">
+      <section className="CreditSection three">
         <div className="Creditleftcont">
           <div className="mockupleft">
             <img src="/Images/three.png" alt="" />

@@ -82,3 +82,36 @@
 .step:last-child .circle:after {
   display: none;
 }
+@media only screen and (max-width: 480px) and (min-width: 320px) {
+  .HowItWorks {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px 20px;
+  }
+  .Leftcont {
+    width: 100%;
+  }
+  .HowItWorksrightcont {
+    width: 100%;
+  }
+  .headline {
+    font-size: 30px;
+    line-height: 35px;
+    padding-bottom: 40px;
+  }
+  .title {
+    line-height: 1.2em;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 18px;
+    color: #172b4d;
+    margin-bottom: 13px;
+  }
+  .caption {
+    font-size: 17px;
+    line-height: 28px;
+  }
+  .circle:after {
+    height: 5vh;
+  }
+}

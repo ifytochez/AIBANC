@@ -9,7 +9,7 @@ function Footer() {
   return (
     <nav className="footer-navbar">
       <div className="footer-container">
-        <Link to="/home" className="home">
+        <Link to="/" className="home">
           <img src="/Images/logo.png" alt="" className="footer-logo" />
         </Link>
 

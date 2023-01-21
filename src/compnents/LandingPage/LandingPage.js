@@ -10,8 +10,8 @@ function LandingPage() {
             Get the credit you deserve <span className="now">now.</span>
           </div>
           <p className="mediumtext">
-            Access credit at an affordable rate, manage your credit <br /> limit
-            and earn 20% cashback on repayment.
+            Access credit at an affordable rate, manage your credit{" "}
+            <br className="break" /> limit and earn 20% cashback on repayment.
           </p>
 
           <div className="googleLink">

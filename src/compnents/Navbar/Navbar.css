@@ -52,6 +52,16 @@ button {
 .navbarImg {
   width: 100%;
 }
+@media only screen and (max-width: 480px) and (min-width: 320px) {
+  .navbar {
+    height: 9vh;
+    line-height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 70px;
+  }
+}
 @media screen and (max-width: 768px) {
   .logo {
     display: flex;
@@ -91,39 +101,3 @@ button {
     width: 100%;
   }
 }
-/* 
-
-@media screen and (max-width: 768px) {
-  .menu {
-    display: none;
-  }
-  .menu-mobile {
-    position: absolute;
-    display: block;
-    list-style: none;
-    left: 0;
-    top: 10%;
-    transition: all 0.5s ease-in-out;
-    width: 100%;
-    background: white;
-    box-shadow: rgba(50, 50, 93, 0.23) 0 30px 30px -20px;
-  }
-  .menu-mobile li {
-    padding: 10px 10px;
-    margin: 10px 10px;
-    font-size: 30px;
-    font-weight: 400;
-  }
-  .menu-mobile a {
-    text-decoration: none;
-  }
-
-  .navbar {
-    height: 10vh;
-    line-height: 5vh;
-    background: #f4f6fc;
-  }
-  .container {
-    height: 10vh;
-  }
-} */
