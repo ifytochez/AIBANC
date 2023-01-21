@@ -81,7 +81,14 @@ button {
     display: block;
     position: absolute;
     right: 30px;
-    font-size: 40px;
+    font-size: 30px;
+  }
+  .googlePlay {
+    width: 38%;
+    padding: 0px 0px 0px 20px;
+  }
+  .navbarImg {
+    width: 100%;
   }
 }
 /* 

@@ -62,3 +62,43 @@
   line-height: 27px;
   color: #5b5971;
 }
+@media only screen and (max-width: 480px) and (min-width: 320px) {
+  .value_container {
+    padding: 50px 0px 60px 0px;
+  }
+  .value_paragraph1 {
+    font-size: 33px;
+    font-weight: 700;
+    line-height: 50px;
+  }
+  .values {
+    width: 100%;
+    margin: auto;
+    flex-direction: column;
+    padding: 55px 0px 10px 0px;
+  }
+
+  .container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .font {
+    font-size: 26px;
+  }
+  .p1 {
+    font-size: 23px;
+    font-weight: 700;
+    line-height: 30px;
+    padding-top: 10px;
+  }
+  .p2 {
+    font-size: 18px;
+    line-height: 27px;
+    padding-bottom: 30px;
+  }
+}

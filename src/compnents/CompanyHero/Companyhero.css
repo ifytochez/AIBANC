@@ -37,3 +37,31 @@
   line-height: 34px;
   color: #5b5971;
 }
+@media only screen and (max-width: 480px) and (min-width: 320px) {
+  .heroCont {
+    flex-direction: column;
+    padding: 0px 20px 30px 20px;
+  }
+  .writeup {
+    width: 100%;
+  }
+  .imageCont {
+    width: 100%;
+    justify-content: flex-start;
+  }
+  .imageCont img {
+    width: 90%;
+  }
+  .paragraph1 {
+    font-size: 27px;
+    font-weight: 800;
+    line-height: 35px;
+    padding-top: 0px;
+  }
+  .paragraph2 {
+    padding-top: 20px;
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 50px;
+  }
+}

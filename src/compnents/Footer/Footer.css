@@ -55,15 +55,15 @@
 .twitter {
   color: #1da1f2;
 }
-@media screen and (max-width: 768px) {
+@media only screen and (max-width: 480px) and (min-width: 320px) {
   .footer-container {
     display: block;
     max-width: 100%;
-    height: 20vh;
+    height: auto;
     padding-top: 30px;
   }
   .footer-navbar {
-    height: 38vh;
+    height: auto;
   }
   .footer-menu1 {
     width: 100%;
@@ -73,12 +73,13 @@
   }
   .footer-menu2 {
     width: 100%;
+    padding-bottom: 20px;
   }
   .footer-menu2 button {
-    width: 60px;
-    height: 60px;
+    width: 50px;
+    height: 50px;
     padding: 0px 10px;
-    margin: 20px 10px 0px 10px;
+    margin: 10px 10px 0px 10px;
   }
   .footer-menu1 li {
     padding: 10px 10px;
