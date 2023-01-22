@@ -76,7 +76,7 @@ button {
   .logo {
     display: flex;
     position: absolute;
-    top: 35px;
+    top: 15px;
     left: 35px;
   }
   .nav-links {
