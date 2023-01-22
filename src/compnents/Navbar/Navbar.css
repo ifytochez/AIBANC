@@ -96,4 +96,46 @@ button {
   }
 }
 @media only screen and (max-width: 768px) and (min-width: 481px) {
+  .logo {
+    display: flex;
+    position: absolute;
+    width: 28%;
+    top: 22px;
+    left: 35px;
+  }
+  .nav-links {
+    display: none;
+  }
+  .nav-links-mobile {
+    position: absolute;
+    display: block;
+    list-style: none;
+    left: 0;
+    top: 10%;
+    transition: all 0.5s ease-in-out;
+    width: 100%;
+    background: white;
+    box-shadow: rgba(50, 50, 93, 0.23) 0 30px 30px -20px;
+  }
+  .nav-links-mobile li {
+    font-size: 23px;
+    padding-left: 20px;
+  }
+  .mobile-menu-icon {
+    display: block;
+    position: absolute;
+    right: 30px;
+    font-size: 30px;
+  }
+  .googlePlay {
+    width: 38%;
+    padding: 0px 0px 0px 20px;
+  }
+  .navbar {
+    height: 10vh;
+    line-height: 7vh;
+  }
+  .navbarImg {
+    width: 100%;
+  }
 }

@@ -71,6 +71,45 @@
     font-weight: 700;
     font-size: 30px;
     line-height: 40px;
+    margin-bottom: 15px;
+  }
+  .semimediumtext {
+    font-size: 17px;
+    line-height: 25px;
+    margin-bottom: 8px;
+  }
+  .downloadNow {
+    font-size: 16px;
+  }
+}
+@media only screen and (max-width: 768px) and (min-width: 481px) {
+  .CreditSection {
+    flex-direction: column;
+    padding: 0px 20px 50px 20px;
+  }
+  .Creditleftcont {
+    width: 100%;
+  }
+  .Creditrightcont {
+    width: 100%;
+    text-align: center;
+    padding-top: 30px;
+  }
+
+  .one {
+    flex-direction: column-reverse;
+  }
+  .three {
+    flex-direction: column-reverse;
+  }
+  .smallHeadline {
+    font-size: 17px;
+    line-height: 40px;
+  }
+  .semiboldtext {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 40px;
     margin-bottom: 5px;
   }
   .semimediumtext {
