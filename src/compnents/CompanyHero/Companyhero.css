@@ -47,7 +47,7 @@
     width: 100%;
   }
   .imageCont {
-    width: 80%;
+    width: 100%;
     justify-content: flex-start;
     margin: auto;
   }
@@ -59,6 +59,7 @@
     font-weight: 800;
     line-height: 35px;
     padding-top: 0px;
+    text-align: center;
   }
   .paragraph2 {
     padding-top: 20px;
