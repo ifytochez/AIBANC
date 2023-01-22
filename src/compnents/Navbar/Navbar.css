@@ -52,10 +52,10 @@ button {
 .navbarImg {
   width: 100%;
 }
-@media only screen and (max-width: 480px) and (min-width: 320px) {
+/* @media only screen and (max-width: 480px) and (min-width: 320px) {
   .navbar {
     height: 10vh;
-    line-height: 7vh;
+    line-height: 10vh;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -64,15 +64,15 @@ button {
   .logo {
     display: flex;
     position: absolute;
-    top: 10px;
+    top: 20px;
     left: 30px;
   }
   .nav-links-mobile li {
     font-size: 18px;
     padding-left: 20px;
   }
-}
-@media only screen and (max-width: 768px) and (min-width: 481px) {
+} */
+@media only screen and (max-width: 480px) and (min-width: 320px) {
   .logo {
     display: flex;
     position: absolute;
@@ -104,7 +104,7 @@ button {
     font-size: 30px;
   }
   .googlePlay {
-    width: 30%;
+    width: 38%;
     padding: 0px 0px 0px 20px;
   }
   .navbar {
