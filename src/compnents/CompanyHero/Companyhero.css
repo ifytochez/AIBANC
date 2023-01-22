@@ -40,7 +40,7 @@
 @media only screen and (max-width: 480px) and (min-width: 320px) {
   .heroCont {
     flex-direction: column;
-    padding: 0px 0px 30px 0px;
+    padding: 0px 20px 30px 20px;
     text-align: center;
   }
   .writeup {
@@ -55,15 +55,15 @@
     width: 90%;
   }
   .paragraph1 {
-    font-size: 2p4x;
+    font-size: 27px;
     font-weight: 800;
-    line-height: 27px;
+    line-height: 35px;
     padding-top: 0px;
   }
   .paragraph2 {
     padding-top: 20px;
-    font-size: 17px;
-    line-height: 26px;
+    font-size: 20px;
+    line-height: 30px;
     margin-bottom: 50px;
   }
 }
