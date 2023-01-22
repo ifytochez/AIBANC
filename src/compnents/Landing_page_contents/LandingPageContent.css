@@ -54,6 +54,8 @@
   }
   .Creditrightcont {
     width: 100%;
+    text-align: center;
+    padding-top: 30px;
   }
   .one {
     flex-direction: column-reverse;

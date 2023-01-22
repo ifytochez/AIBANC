@@ -98,6 +98,7 @@
     font-size: 30px;
     line-height: 35px;
     padding-bottom: 40px;
+    text-align: center;
   }
   .title {
     line-height: 1.2em;
@@ -112,6 +113,6 @@
     line-height: 28px;
   }
   .circle:after {
-    height: 5vh;
+    height: 6vh;
   }
 }

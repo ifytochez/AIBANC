@@ -53,6 +53,7 @@
   .CONT {
     padding: 0px 20px 0px 20px;
     flex-direction: column;
+    text-align: center;
   }
   .leftcont {
     width: 100%;
@@ -79,5 +80,6 @@
   }
   .googleLink {
     padding-top: 10px;
+    margin: auto;
   }
 }
