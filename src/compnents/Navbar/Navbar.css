@@ -55,7 +55,7 @@ button {
 @media only screen and (max-width: 480px) and (min-width: 320px) {
   .navbar {
     height: 10vh;
-    line-height: 10vh;
+    line-height: 7vh;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -64,7 +64,7 @@ button {
   .logo {
     display: flex;
     position: absolute;
-    top: 20px;
+    top: 10px;
     left: 30px;
   }
   .nav-links-mobile li {
@@ -72,11 +72,11 @@ button {
     padding-left: 20px;
   }
 }
-@media screen and (max-width: 768px) {
+@media only screen and (max-width: 768px) and (min-width: 481px) {
   .logo {
     display: flex;
     position: absolute;
-    top: 28px;
+    top: 35px;
     left: 35px;
   }
   .nav-links {
@@ -104,8 +104,12 @@ button {
     font-size: 30px;
   }
   .googlePlay {
-    width: 38%;
+    width: 30%;
     padding: 0px 0px 0px 20px;
+  }
+  .navbar {
+    height: 10vh;
+    line-height: 7vh;
   }
   .navbarImg {
     width: 100%;
