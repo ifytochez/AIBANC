@@ -97,7 +97,7 @@
     margin-bottom: 15px;
   }
 }
-@media only screen and (max-width: 768px) and (min-width: 481px) {
+@media only screen and (max-width: 900px) and (min-width: 481px) {
   .footer-container {
     display: block;
     max-width: 100%;
@@ -139,7 +139,7 @@
     margin-bottom: 15px;
   }
 }
-@media only screen and (max-width: 900px) and (min-width: 769px) {
+@media only screen and (max-width: 950px) and (min-width: 901px) {
   .footer-container {
     max-width: 100%;
   }

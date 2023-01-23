@@ -95,7 +95,7 @@ button {
     width: 100%;
   }
 }
-@media only screen and (max-width: 768px) and (min-width: 481px) {
+@media only screen and (max-width: 900px) and (min-width: 481px) {
   .logo {
     display: flex;
     position: absolute;
@@ -139,7 +139,7 @@ button {
     width: 100%;
   }
 }
-@media only screen and (max-width: 978px) and (min-width: 769px) {
+@media only screen and (max-width: 978px) and (min-width: 900px) {
   .navbar {
     padding: 0px 30px;
   }
