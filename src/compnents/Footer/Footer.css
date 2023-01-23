@@ -139,3 +139,11 @@
     margin-bottom: 15px;
   }
 }
+@media only screen and (max-width: 900px) and (min-width: 769px) {
+  .footer-container {
+    max-width: 100%;
+  }
+  .home {
+    padding-left: 20px;
+  }
+}
