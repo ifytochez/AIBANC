@@ -139,3 +139,11 @@ button {
     width: 100%;
   }
 }
+@media only screen and (max-width: 978px) and (min-width: 769px) {
+  .navbar {
+    padding: 0px 30px;
+  }
+  .nav-links {
+    width: 80%;
+  }
+}

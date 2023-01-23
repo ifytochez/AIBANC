@@ -122,3 +122,18 @@
     margin: auto;
   }
 }
+@media only screen and (max-width: 978px) and (min-width: 769px) {
+  .CONT {
+    padding: 0px 0px 0px 40px;
+  }
+  .leftcont {
+    width: 55%;
+    padding-top: 100px;
+  }
+  .boldtext {
+    font-size: 55px;
+  }
+  .break {
+    display: none;
+  }
+}
