@@ -22,8 +22,8 @@ function Testimonial() {
     },
     {
       description:
-        ' "The onboarding process was sleek. I did recommend for very friendly non-shark loan rates."',
-      titlee: "Damiloju Oyekan",
+        ' "The onboarding process was sleek. I did recommend for very friendly loan rates."',
+      titlee: "Racheal Pamela",
       imageSrc:
         "https://images.pexels.com/photos/5615665/pexels-photo-5615665.jpeg?",
     },
