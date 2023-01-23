@@ -49,8 +49,10 @@ function FAQs() {
                 color: "#5B5971",
               }}
             >
-              The regulators require the BVN to know your Customer (KYC) to
-              access our credit tool.
+              <p className="answer">
+                The regulators require the BVN to know your Customer (KYC) to
+                access our credit tool.
+              </p>
             </Typography>
           </AccordionDetails>
         </Accordion>
@@ -92,8 +94,10 @@ function FAQs() {
                 color: "#5B5971",
               }}
             >
-              You can get your bank statement through your bank's mobile
-              application or by requesting one from a local branch near you.
+              <p className="answer">
+                You can get your bank statement through your bank's mobile
+                application or by requesting one from a local branch near you.
+              </p>
             </Typography>
           </AccordionDetails>
         </Accordion>
@@ -131,15 +135,17 @@ function FAQs() {
                 color: "#5B5971",
               }}
             >
-              This is possible if you have created an account in the past. To
-              find out if this is the case, please contact{" "}
-              <a
-                href="mailto:support@aibanc.co"
-                style={{ textDecoration: "none" }}
-              >
-                support@aibanc.co
-              </a>{" "}
-              via email.
+              <p className="answer">
+                This is possible if you have created an account in the past. To
+                find out if this is the case, please contact{" "}
+                <a
+                  href="mailto:support@aibanc.co"
+                  style={{ textDecoration: "none" }}
+                >
+                  support@aibanc.co
+                </a>{" "}
+                via email.
+              </p>
             </Typography>
           </AccordionDetails>
         </Accordion>
@@ -175,14 +181,17 @@ function FAQs() {
                 color: "#5B5971",
               }}
             >
-              Kinly contact{" "}
-              <a
-                href="mailto:support@aibanc.co"
-                style={{ textDecoration: "none" }}
-              >
-                support@aibanc.co
-              </a>{" "}
-              via email for further inquires.
+              <p className="answer">
+                {" "}
+                Kinly contact{" "}
+                <a
+                  href="mailto:support@aibanc.co"
+                  style={{ textDecoration: "none" }}
+                >
+                  support@aibanc.co
+                </a>{" "}
+                via email for further inquires.
+              </p>
             </Typography>
           </AccordionDetails>
         </Accordion>

@@ -24,13 +24,16 @@
     padding: 20px 0px 0px 0px;
   }
   .faqheadline {
-    font-size: 30px;
+    font-size: 26px;
     line-height: 38px;
     padding-bottom: 20px;
   }
   .question {
-    font-size: 18px;
+    font-size: 15px;
     line-height: 20px;
     padding: 8px 0px;
+  }
+  .answer {
+    font-size: 15px;
   }
 }

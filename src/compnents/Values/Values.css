@@ -67,9 +67,9 @@
     padding: 50px 0px 60px 0px;
   }
   .value_paragraph1 {
-    font-size: 33px;
-    font-weight: 700;
-    line-height: 50px;
+    font-size: 25px;
+    font-weight: 800;
+    line-height: 40px;
   }
   .values {
     width: 100%;
@@ -91,7 +91,7 @@
     font-size: 26px;
   }
   .p1 {
-    font-size: 23px;
+    font-size: 21px;
     font-weight: 700;
     line-height: 30px;
     padding-top: 10px;
