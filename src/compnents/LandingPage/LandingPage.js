@@ -7,7 +7,7 @@ function LandingPage() {
       <div className="CONT">
         <div className="leftcont">
           <div className="boldtext">
-            Get the credit you deserve <span className="now">now.</span>
+            Get the credit you deserve <span className="now">now</span>
           </div>
           <p className="mediumtext">
             Access credit at an affordable rate, manage your credit{" "}
