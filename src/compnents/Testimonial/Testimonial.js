@@ -18,7 +18,7 @@ function Testimonial() {
         '"Amazing App, easy to use and straight forward. Making access to funds easily ata a favourable interest rate. I have been able to do alot of stuff without breaking the bank, thanks to Aibanc."',
       titlee: "Deborah Ogbole",
       imageSrc:
-        "https://images.unsplash.com/photo-1519699047748-de8e457a634e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGJsYWNrJTIwZ2lybHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+        "https://images.pexels.com/photos/4350112/pexels-photo-4350112.jpeg?auto=compress&cs=tinysrgb&w=600",
     },
     {
       description:
