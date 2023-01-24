@@ -38,7 +38,9 @@ function Testimonial() {
   return (
     <div className="testimony">
       <div className="testimonials">
-        <h3>What Our Users Think About Us</h3>
+        <h3>
+          What Our Users Think <br className="brrrr" /> About Us
+        </h3>
         <div className="horizontalLine"></div>
       </div>
       <Slider

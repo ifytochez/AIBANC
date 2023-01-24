@@ -5,7 +5,9 @@ function HowItWorks() {
   return (
     <div className="HowItWorks">
       <div className="Leftcont">
-        <h3 className="headline">Get the credit you need in 5 minutes</h3>
+        <h3 className="headline">
+          Get the credit you need in <br className="brrr" /> 5 minutes
+        </h3>
         <div class="step">
           <div>
             <div class="circle">01</div>

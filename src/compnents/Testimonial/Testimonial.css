@@ -1,6 +1,9 @@
 .testimonials {
   padding-top: 90px;
 }
+.brrrr {
+  display: none;
+}
 .testimonials h3 {
   font-family: "Inter";
   font-size: 45px;
@@ -65,6 +68,9 @@
     padding-top: 40px;
     width: 80%;
     margin: auto;
+  }
+  .brrrr {
+    display: block;
   }
   .testimonials h3 {
     font-size: 23px;

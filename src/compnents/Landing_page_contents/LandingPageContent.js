@@ -13,7 +13,7 @@ function LandingPageContent() {
         <div className="Creditrightcont">
           <p className="smallHeadline">Instant Withdrawal</p>
           <div className="semiboldtext">
-            Get the credit you need within few minutes
+            Get the credit you need <br className="brr" /> within few minutes
           </div>
           <p className="semimediumtext">
             Initiate a withdrawal request and get credited directly into your

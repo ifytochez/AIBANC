@@ -42,7 +42,7 @@
   width: 40px;
   height: 40px;
   border: none;
-  padding: 0px 7px;
+  padding: 0px 0px;
   margin: 0px 7px;
   border-radius: 50%;
   background: #ffffff;
@@ -76,9 +76,9 @@
     padding-bottom: 20px;
   }
   .footer-menu2 button {
-    width: 50px;
-    height: 50px;
-    padding: 0px 10px;
+    width: 40px;
+    height: 40px;
+    padding: 0px 0px;
     margin: 10px 10px 0px 10px;
   }
   .footer-menu1 li {
@@ -91,7 +91,7 @@
     font-size: 14px;
   }
   .footer-logo {
-    width: 30%;
+    width: 20%;
     display: flex;
     padding-left: 18px;
     margin-bottom: 15px;
@@ -118,22 +118,22 @@
     padding-bottom: 20px;
   }
   .footer-menu2 button {
-    width: 50px;
-    height: 50px;
-    padding: 0px 10px;
+    width: 40px;
+    height: 40px;
+    padding: 0px 0px;
     margin: 10px 10px 0px 10px;
   }
   .footer-menu1 li {
     padding: 10px 10px;
     margin: 0px 10px;
-    font-size: 20px;
+    font-size: 14px;
     font-weight: 400;
   }
   .footer-menu1 li a {
-    font-size: 20px;
+    font-size: 14px;
   }
   .footer-logo {
-    width: 30%;
+    width: 20%;
     display: flex;
     padding-left: 18px;
     margin-bottom: 15px;

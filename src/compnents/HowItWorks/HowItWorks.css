@@ -10,6 +10,9 @@
 .HowItWorksrightcont {
   width: 50%;
 }
+.brrr {
+  display: none;
+}
 .HowItWorksrightcont img {
   width: 100%;
 }
@@ -94,6 +97,9 @@
   .HowItWorksrightcont {
     width: 100%;
   }
+  .brrr {
+    display: block;
+  }
   .headline {
     font-size: 25px;
     line-height: 30px;
@@ -124,6 +130,9 @@
   }
   .Leftcont {
     width: 100%;
+  }
+  .brrr {
+    display: block;
   }
   .HowItWorksrightcont {
     width: 100%;

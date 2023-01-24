@@ -12,7 +12,9 @@
   width: 50%;
   padding-top: 140px;
 }
-
+.brr {
+  display: none;
+}
 .boldtext {
   font-family: "Inter";
   font-style: normal;
@@ -59,6 +61,9 @@
     width: 100%;
     padding-top: 30px;
   }
+  .brr {
+    display: block;
+  }
   .boldtext {
     font-weight: 800;
     font-size: 29px;
@@ -93,6 +98,9 @@
   .leftcont {
     width: 100%;
     padding-top: 30px;
+  }
+  .brr {
+    display: block;
   }
   .boldtext {
     font-weight: 700;
@@ -136,4 +144,7 @@
   .break {
     display: none;
   }
+}
+.brr {
+  display: block;
 }
