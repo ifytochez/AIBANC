@@ -20,7 +20,9 @@ function LandingPageContent() {
             bank account within minutes
           </p>
           <div className="downloadNow">
-            <a href="#download">Download Now</a>
+            <a href="https://play.google.com/store/apps/details?id=co.aibanc.Aibanc_APP">
+              Download Now
+            </a>
           </div>
         </div>
       </section>
@@ -35,7 +37,9 @@ function LandingPageContent() {
             and start enjoying.
           </p>
           <div className="downloadNow">
-            <a href="#download">Download Now</a>
+            <a href="https://play.google.com/store/apps/details?id=co.aibanc.Aibanc_APP">
+              Download Now
+            </a>
           </div>
         </div>
 
@@ -61,7 +65,9 @@ function LandingPageContent() {
             when you repay your credit on or before the due date.
           </p>
           <div className="downloadNow">
-            <a href="#download">Download Now</a>
+            <a href="https://play.google.com/store/apps/details?id=co.aibanc.Aibanc_APP">
+              Download Now
+            </a>
           </div>
         </div>
       </section>
