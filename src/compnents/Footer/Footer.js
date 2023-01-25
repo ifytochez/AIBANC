@@ -29,15 +29,24 @@ function Footer() {
         </ul>
 
         <ul className="footer-menu2">
-          <button className="facebook">
-            <FaFacebookF />
-          </button>
-          <button className="twitter">
-            <FaTwitter />
-          </button>
-          <button className="insta">
-            <FaInstagram />
-          </button>
+          <a href="https://www.facebook.com/Aibanc?mibextid=LQQJ4d">
+            <button className="facebook">
+              <FaFacebookF />
+            </button>
+          </a>
+
+          <a href="https://twitter.com/aibanchq?s=11&t=fnzPT-S4OffEc4RRjjSsew">
+            {" "}
+            <button className="twitter">
+              <FaTwitter />
+            </button>
+          </a>
+
+          <a href="https://instagram.com/aibanchq?igshid=MWI4MTIyMDE=">
+            <button className="insta">
+              <FaInstagram />
+            </button>
+          </a>
         </ul>
       </div>
     </nav>
